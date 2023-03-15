@@ -159,7 +159,7 @@ Github pages
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/MMGGYY66/metrics-webapp-capstone-project/issues).
+Feel free to check the [issues page](https://github.com/AyomipoMajek/react-capstone/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
