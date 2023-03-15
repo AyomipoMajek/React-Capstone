@@ -27,9 +27,9 @@
 - [📝 License](#license)
 
 
-# 📖 REACT METRICWEBAPP  <a name="about-project"></a>
+# 📖 REACT METRIC WEBAPP  <a name="about-project"></a>
 
-**REACT METRICWEBAPP** is a mobile webApp that contains Vibranium mineral annual revenue, displaying them in segment of year, and into a smaller segment of each country revenue.
+**REACT METRIC WEBAPP** is a mobile webApp that contains Vibranium mineral annual revenue, displaying them in segment of year, and into a smaller segment of each country revenue.
 
 ## 🛠 Built With <a name="built-with"></a>
 - REACT
@@ -71,7 +71,13 @@
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- [Live Demo Link]()
+- [Live Demo Link](https://mobile-webapp.onrender.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# Video Presentation
+[Video Presentation](https://www.loom.com/share/)
+
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -138,3 +144,19 @@ Github pages
 
 
 ##👥 Authors <a name="authors"></a>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Ayomipo Majek**
+
+- GitHub: [@AyomipoMajek](https://github.com/AyomipoMajek)
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](MIT.md) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
