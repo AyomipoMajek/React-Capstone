@@ -26,7 +26,7 @@ function Card() {
       <p className="title2">Country and Breakdown:</p>
       <ul>
         {card.CHINA || card['C N'] ? (
-          <li>
+          <li className="country">
             China:
             <span>
               {' '}
@@ -35,7 +35,7 @@ function Card() {
           </li>
         ) : null }
         {card['UNITED STATES'] || card['U S'] ? (
-          <li>
+          <li className="country">
             {' '}
             United States:
             <span>
@@ -45,7 +45,7 @@ function Card() {
           </li>
         ) : null}
         {card['Other Countries'] ? (
-          <li>
+          <li className="country">
             {' '}
             Other Countries:
             <span>
@@ -55,7 +55,7 @@ function Card() {
           </li>
         ) : null}
         {card.Americas ? (
-          <li>
+          <li className="country">
             Americas:
             <span>
               {' '}
@@ -64,13 +64,13 @@ function Card() {
           </li>
         ) : null }
         {card['Asia-Pacific'] ? (
-          <li>
+          <li className="country">
             Asia-pacific:
             {card['Asia-Pacific']}
           </li>
         ) : null}
         {card.Europe ? (
-          <li>
+          <li className="country">
             Europe:
             <span>
               {' '}
@@ -79,7 +79,7 @@ function Card() {
           </li>
         ) : null}
         {card.Japan ? (
-          <li>
+          <li className="country">
             Japan:
             <span>
               {' '}
