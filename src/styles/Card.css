@@ -1,0 +1,62 @@
+.card {
+  line-height: 20px;
+}
+
+.title2 {
+  padding: 5px;
+  font-size: 10px;
+  padding-left: 12px;
+  background-color: rgba(238, 82, 126, 0.875);
+}
+
+.country {
+  font-weight: 700;
+}
+
+.country span {
+  font-weight: normal;
+}
+
+.thehead {
+  display: flex;
+}
+
+.subhead {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-image: linear-gradient(rgba(108, 7, 23, 0.642), rgba(185, 49, 72, 0.79)), url(../images/red_vibr.png);
+  height: 15vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 355px;
+  width: 50%;
+}
+
+.breakdown {
+  float: right;
+  width: 50%;
+  padding-left: 5px;
+  padding-top: 65px;
+  font-weight: 700;
+}
+
+ul li {
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+ul li:nth-child(odd) {
+  background-color: rgba(185, 75, 106, 0.536);
+}
+
+.total {
+  padding-bottom: 100%;
+  font-weight: 700;
+}
+
+.total span {
+  font-weight: normal;
+}

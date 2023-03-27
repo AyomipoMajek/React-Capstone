@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home match snapshot 1`] = `
+<div
+  className="home"
+>
+  <div
+    className="form"
+  >
+    <input
+      onChange={[Function]}
+      placeholder="Filter by year"
+      type="text"
+    />
+  </div>
+  <div>
+    <p
+      className="title"
+    >
+      ALL STATS:
+    </p>
+  </div>
+</div>
+`;

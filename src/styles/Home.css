@@ -1,0 +1,72 @@
+.form {
+  background-image: linear-gradient(rgba(90, 6, 20, 0.593), rgba(90, 6, 20, 0.579)), url(../images/raw.jpg);
+  text-align: center;
+  height: 33vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 400px;
+}
+
+input {
+  border: none;
+  border-radius: 5px;
+  font-size: 12px;
+  padding: 5px;
+  margin-bottom: 20px;
+  margin-top: 80px;
+  margin-left: 150px;
+}
+
+.title {
+  font-size: 10px;
+  background-color: rgba(161, 59, 88, 0.536);
+  padding: 5px;
+}
+
+.each {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  background-color: rgba(161, 59, 88, 0.536);
+}
+
+.date {
+  box-sizing: border-box;
+  padding-top: 43px;
+  padding-bottom: 43px;
+  width: 50%;
+}
+
+.each:nth-child(odd) .date,
+.each:nth-of-type(4n+1) .date {
+  background-color: rgba(219, 81, 81, 0.563);
+}
+
+.detail {
+  display: flex;
+  box-sizing: border-box;
+  width: 50%;
+}
+
+.each:nth-child(even) .detail,
+.each:nth-of-type(7n+1) .detail {
+  background-color: rgba(219, 81, 81, 0.563);
+}
+
+.fa-circle-arrow-right {
+  padding-right: 10px;
+  padding-top: 5px;
+}
+
+.info {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 15px;
+  font-weight: 700;
+}
+
+.info pre {
+  font-weight: normal;
+}

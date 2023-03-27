@@ -1,0 +1,23 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  background-color: rgba(189, 68, 102, 0.674);
+}
+
+.pageTitle {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+a {
+  color: #fff;
+}
