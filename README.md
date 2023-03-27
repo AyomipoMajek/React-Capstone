@@ -92,7 +92,7 @@
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/AbdimulhinYussuf3675/Module2_capstune_Project.git
+https://github.com/AyomipoMajek/react-capstone.git
 
 
 Example commands:
